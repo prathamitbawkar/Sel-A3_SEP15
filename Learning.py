@@ -5,3 +5,5 @@ class Numbers:
                 print("even")
             else:
                 print("odd")
+    def add(4,2):
+        print(4+2)
